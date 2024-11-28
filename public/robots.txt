@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://imranpc.net/sitemap.xml
